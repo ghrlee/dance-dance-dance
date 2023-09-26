@@ -1,4 +1,4 @@
-# Three.js Journey
+# threejs dance
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
